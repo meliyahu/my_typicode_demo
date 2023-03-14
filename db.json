@@ -1,20 +1,20 @@
 [
     { 
-      "id": "1",
+      "id": 1,
       "name": "Mosheh EliYahu", 
-      "age": "37",
+      "age": 37,
       "notes": "Loves to go to the gym"
     },
    { 
-      "id": "2",
+      "id": 2,
       "name": "Seiko EliYahu", 
-      "age": "23",
+      "age": 23,
       "notes": "Loves basket ball"
     },
   { 
-      "id": "3",
+      "id": 3,
       "name": "Mikal EliYahu", 
-      "age": "13",
+      "age": 13,
       "notes": "Loves cats"
     }
 ]
