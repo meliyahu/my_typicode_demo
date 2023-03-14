@@ -1,4 +1,5 @@
-[
+{
+    "people": [
     { 
       "id": 1,
       "name": "Mosheh EliYahu", 
@@ -17,4 +18,5 @@
       "age": 13,
       "notes": "Loves cats"
     }
-]
+        ]
+}
